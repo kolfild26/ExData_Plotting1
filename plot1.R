@@ -1,6 +1,6 @@
 # setup custom options
 
-setwd("D:\\R\\Exploratory Data Analysis\\Assignment1\\ExData_Plotting1")
+#setwd("D:\\R\\Exploratory Data Analysis\\Assignment1\\ExData_Plotting1")
 
 library(dplyr)
 Sys.setlocale("LC_TIME", "English")
